@@ -25,12 +25,7 @@ a:hover{
     color: red;
     font-weight: bolder;
 }
-video{
-    display: block;
-    width: fit-content;
-    text-align: center;
-    height: 640px;
-}
+
 p{
     color: snow;
     background-color: rgb(0, 0, 0);
